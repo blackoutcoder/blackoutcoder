@@ -10,7 +10,8 @@ I have started Front-End developer course in CodeAcademy in 2021. First we learn
 *   ✉️  You can contact me at [romka19841201@gmail.com](mailto:romka19841201@gmail.com)
 *   🚀  I'm currently working on [C# projects](http://github.com/blackoutcoder)
 *   🧠  I'm learning C#, Python, Html, Css, JSscript.<a href="https://www.github.com/blackoutcoder" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/blackoutcoder?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills<p align="left">
+                  src="https://img.shields.io/github/followers/blackoutcoder?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+                  ### Skills<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -18,11 +19,11 @@ I have started Front-End developer course in CodeAcademy in 2021. First we learn
                                 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
                                 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
                     </p>
-                    
-                  ### Socials
+                
+      ### Socials
                   
                   
-                <p align="left">
+      <p align="left">
                           
                       <a href="https://www.github.com/blackoutcoder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
