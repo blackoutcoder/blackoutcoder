@@ -1,7 +1,7 @@
 Hi 👋 My name is Roman Repič
 ============================
 
-Front-End Junior Developer
+Entry level Front-End, Back-End Developer
 --------------------------
 
 I have started Front-End developer course in CodeAcademy in 2021. First we learned html, css and JSscript. Now we are learning c#.
