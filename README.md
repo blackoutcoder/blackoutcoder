@@ -1,10 +1,11 @@
 Hi 👋 My name is Roman Repič
 ============================
 
-Entry level Front-End, Back-End Developer
+Entry-Level Full Stack C# Developer
 --------------------------
 
-I have started Front-End developer course in CodeAcademy in 2021. First we learned html, css and JSscript. Now we are learning c#.
+It doesn't matter how much time it will take to find my first developers job,
+in my mind i'm already there...in my lovely office with my awesome team. 😇
 
 * 🌍  I'm based in Klaipeda , Lithuania.
 * ✉️  You can contact me at [romka19841201@gmail.com](mailto:romka19841201@gmail.com)
