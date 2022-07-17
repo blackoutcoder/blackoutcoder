@@ -58,3 +58,5 @@ My profile on Exercism.org https://exercism.org/profiles/blackoutcoder
 Challenge me on LeetCode! https://leetcode.com/blackoutcoder/
 
 Learn Code with me on FreeCodeCamp https://www.freecodecamp.org/fcc0350c82e-1870-4cd2-b0cc-315fb0f65524
+
+Watch my results on CodeWars https://www.codewars.com/users/blackoutcoder
