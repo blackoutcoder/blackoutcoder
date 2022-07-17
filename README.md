@@ -50,3 +50,5 @@ src="https://img.shields.io/github/followers/blackoutcoder?logo=github&style=for
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/blackoutcoder"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+Check out this free app — It Pays to Walk 🚶 https://sweatco.in/i/romanrepic
