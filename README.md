@@ -1,16 +1,15 @@
 Hi 👋 My name is Roman Repič
 ============================
-
-Entry-Level Full Stack C# Developer
+Junior Full Stack C# Developer
 --------------------------
 
-It doesn't matter how much time it will take to find my first developers job,
-in my mind i'm already there...in my lovely office with my awesome team. 😇
+
+
 
 * 🌍  I'm based in Klaipeda , Lithuania.
 * ✉️  You can contact me at [romka19841201@gmail.com](mailto:romka19841201@gmail.com)
 * 🚀  I'm currently working on [C# projects](http://github.com/blackoutcoder)
-* 🧠  I'm learning C#, Python, Html, Css, JSscript.
+* 🧠  I'm learning C#, Python, Html, Css, JSscript, Sql.
 
 <a href="https://www.github.com/blackoutcoder" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/blackoutcoder?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
